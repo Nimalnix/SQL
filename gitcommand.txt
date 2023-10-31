@@ -1,0 +1,11 @@
+git clone https://github.com/Nimalnix/WorldCup2023.git
+
+git clone https://github.com/Nimalnix/TimePass.git
+--get the current status of repository
+git status
+--To add new files to repository
+git add .
+--To commit all changes to repository
+git commit -m "xyz"
+--To up;oad new and modified files to cloud repository from local repsoitory
+git push
